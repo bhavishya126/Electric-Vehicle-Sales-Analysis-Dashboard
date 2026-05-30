@@ -34,11 +34,8 @@ Using real-world EV sales data, I built a comprehensive end-to-end analytics sol
 
 This dashboard helps **investors, government bodies, and EV companies** understand where the market is heading—and how to align resources accordingly.
 
----
+--
 
-![EV Sales Dashboard](https://github.com/muhammed-fazal/Electric-Vehicle-Sales-Analysis/blob/main/Screenshot%202025-07-02%20221524.png)
-
-![EV Sales Dashboard](https://github.com/muhammed-fazal/Electric-Vehicle-Sales-Analysis/blob/main/Screenshot%202025-07-02%20221555.png)
 This repository contains my **Electric Vehicle (EV) Sales Analysis and Dashboard** project, completed as part of my internship at **Unified Mentor**. The goal of this project was to analyze India’s EV sales trends and deliver actionable insights using **Python**, **SQL**, **Excel**, and **Power BI**.
 
 ---
@@ -79,5 +76,4 @@ This project gave me practical exposure to combining multiple tools for end-to-e
 ## 📬 Connect
 
 I’m always open to feedback and collaboration!  
-Feel free to ⭐️ star this repo, raise an issue, or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammed-fazal-/).
 
